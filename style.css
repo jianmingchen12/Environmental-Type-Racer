@@ -82,6 +82,7 @@ h1 {
 }
 
 ul {
+  text-align: center; 
   width:100%;
   list-style: none;
 }
@@ -92,6 +93,10 @@ li {
   
 }
 
-sun {
-  
+#sun {
+  height: 8em;
+  width: 8em;
+  position: absolute;
+  top:0em;
+  right:20em;
 }
